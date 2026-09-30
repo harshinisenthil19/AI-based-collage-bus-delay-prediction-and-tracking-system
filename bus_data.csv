@@ -1,0 +1,11 @@
+distance,traffic,weather,previous_delay,actual_delay
+5,Low,Clear,0,0
+8,Medium,Cloudy,2,5
+12,High,Rainy,5,20
+15,High,Rainy,10,30
+7,Low,Clear,0,0
+10,Medium,Rainy,5,15
+18,High,Cloudy,8,25
+6,Low,Cloudy,2,5
+14,Medium,Rainy,7,20
+20,High,Rainy,10,35
